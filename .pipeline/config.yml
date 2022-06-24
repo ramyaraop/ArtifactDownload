@@ -1,0 +1,8 @@
+steps:
+  integrationArtifactDownload:
+    cpiApiServiceKeyCredentialsId: roverpocServiceKeyCred
+    integrationFlowId: test1
+    integrationFlowVersion: 1.0.8
+    downloadPath: ./iflows
+© 2022 GitHub, Inc.
+Terms
